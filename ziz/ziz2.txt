@@ -1,0 +1,5 @@
+﻿<li><a href="?url4=4">诸子</a></li><hr>
+<li><a href="?url4=1">法家</a></li><hr>
+<li><a href="?url4=2">农家</a></li><hr>
+<li><a href="?url4=3">算法</a></li><hr>
+<li><a href="?url4=0">兵家</a></li>
